@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <head>
 <meta charset="utf-8">
-<title>Estore 16</title>
+<title>Testing</title>
 <!-- // Stylesheets // -->
 <link rel="stylesheet" href="css/admin_style.css" type="text/css" >
 <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" >
